@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - Present: Library Associate
+  * Braswell Memorial Library
+  * 
+  * 
 
 * Fall 2015: Research Assistant
   * GitHub University
