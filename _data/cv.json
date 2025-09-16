@@ -11,6 +11,7 @@
       "gpa": null,
       "courses": []
     },
+
     {
       "institution": "University of North Carolina at Greensboro",
       "area": "B.A, History",
@@ -20,7 +21,7 @@
       "gpa": null,
       "courses": []
     }
-
+    
   ],
   "skills": [],
   "languages": [],
